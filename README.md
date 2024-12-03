@@ -1,5 +1,5 @@
 
-# **CARS24 - Stock Movement Prediction Using Twitter Sentiment Analysis**
+# **CAPX - Stock Movement Prediction Using Twitter Sentiment Analysis**
 
 ## **Project Overview**
 This project predicts stock price movements based on sentiment analysis of Twitter data. By collecting tweets related to stocks, we preprocess, analyze sentiment, and use machine learning models to forecast whether stock prices will move up or down. The aim is to leverage public sentiment as an indicator for market trends.

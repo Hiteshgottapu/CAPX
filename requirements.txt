@@ -1,0 +1,12 @@
+tweepy==4.10.1
+pandas==1.3.3
+numpy==1.21.2
+nltk==3.6.3
+textblob==0.15.3
+scikit-learn==0.24.2
+matplotlib==3.4.3
+shap==0.39.0
+torch==1.9.1
+wordcloud==1.8.1
+langdetect==1.0.9
+notebook==6.4.3

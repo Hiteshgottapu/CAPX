@@ -97,7 +97,3 @@ pip install -r requirements.txt
 
 ## **Author**
 - **Gottapu Hitesh**
-
----
-
-This `README.md` provides a comprehensive overview of your project, including installation, usage, and future directions, making it easy for others to understand and use. Let me know if you need to modify anything!

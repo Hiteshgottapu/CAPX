@@ -6,7 +6,7 @@ This project predicts stock price movements based on sentiment analysis of Twitt
 
 ## **Project Structure**
 ```
-CARS24/
+CAPX/
 ├── data/
 │   ├── tweets.csv                  # Raw scraped data from Twitter
 │   ├── cleaned_tweets.csv          # Cleaned and preprocessed tweets
